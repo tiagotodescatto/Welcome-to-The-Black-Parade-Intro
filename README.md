@@ -7,18 +7,6 @@ perform a complete song.
 
 This project explores algorithmic music and live coding with Strudel.
 
-The song combines:
-
-- 🎹 Piano
-- 🎸 Electric guitar
-- 🥁 Drums
-- 🔊 MIDI-style sounds and effects
-- 🎛️ Pattern-based sequencing
-- 🎼 Musical arrangements built entirely through code
-
-The goal is to turn musical ideas into code while experimenting with rhythm,
-melody, harmony, sound design and arrangement.
-
 ## 🛠️ Built With
 
 - [Strudel](https://strudel.cc/)
